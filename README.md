@@ -1,5 +1,7 @@
 ![Header](./stretched-banner.jpeg)
 
+find me at:
+
 Patreon: https://www.patreon.com/InfernalWAVE
 
 Twitter: https://twitter.com/_PowellR
