@@ -1,4 +1,4 @@
-![Header](./stretched-banner.jpeg)
+![Header](./banner-picture.jpeg)
 
 find me at:
 
