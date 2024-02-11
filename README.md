@@ -1,4 +1,4 @@
-![Header](./banner-picture.jpeg)
+![Header](./banner_picture.jpeg)
 
 find me at:
 
